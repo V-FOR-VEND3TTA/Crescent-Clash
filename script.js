@@ -1,5 +1,5 @@
 //The date we are counting down to
-var count = new Date("Apr 29, 2021 18:00:00").getTime();
+var count = new Date("Dec 28, 2022 00:00:00").getTime();
 
 var x = setInterval(function () {
   // Today's date and time
